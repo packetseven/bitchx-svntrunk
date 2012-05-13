@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/bitchx/!svn/ver/152/trunk/macros
+END
+audiofile.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bitchx/!svn/ver/4/trunk/macros/audiofile.m4
+END
+plugins.m4
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/macros/plugins.m4
+END
+shlib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/4/trunk/macros/shlib.m4
+END
+check_declaration.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bitchx/!svn/ver/4/trunk/macros/check_declaration.m4
+END
+check_version.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bitchx/!svn/ver/4/trunk/macros/check_version.m4
+END
+xmms.m4
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/4/trunk/macros/xmms.m4
+END
+gnome.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/4/trunk/macros/gnome.m4
+END
+gtk.m4
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/4/trunk/macros/gtk.m4
+END
+mkaclocal
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/4/trunk/macros/mkaclocal
+END
+sanity.m4
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/4/trunk/macros/sanity.m4
+END
+esd.m4
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/4/trunk/macros/esd.m4
+END
+pluginsupport.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bitchx/!svn/ver/152/trunk/macros/pluginsupport.m4
+END
+imlib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/4/trunk/macros/imlib.m4
+END
+glib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/4/trunk/macros/glib.m4
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/164/trunk/dll/blowfish
+END
+blowfish.doc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bitchx/!svn/ver/4/trunk/dll/blowfish/blowfish.doc
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bitchx/!svn/ver/164/trunk/dll/blowfish/Makefile.in
+END
+bf_tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/bitchx/!svn/ver/4/trunk/dll/blowfish/bf_tab.h
+END
+blowfish.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bitchx/!svn/ver/4/trunk/dll/blowfish/blowfish.h
+END
+bot-crypt.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bitchx/!svn/ver/4/trunk/dll/blowfish/bot-crypt.tcl
+END
+blowfish.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bitchx/!svn/ver/4/trunk/dll/blowfish/blowfish.sh
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bitchx/!svn/ver/4/trunk/dll/blowfish/CREDITS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bitchx/!svn/ver/4/trunk/dll/blowfish/README
+END
+blowfish.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bitchx/!svn/ver/4/trunk/dll/blowfish/blowfish.c
+END
+op-crypt.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bitchx/!svn/ver/4/trunk/dll/blowfish/op-crypt.tcl
+END

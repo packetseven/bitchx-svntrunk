@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind
+END
+quit_irc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/quit_irc
+END
+erase_to_end_of_line
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/erase_to_end_of_line
+END
+stop_irc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/stop_irc
+END
+meta1_character
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/meta1_character
+END
+swap_last_window
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/swap_last_window
+END
+toggle_stop_screen
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/toggle_stop_screen
+END
+meta4_character
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/meta4_character
+END
+unstop_all_windows
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/unstop_all_windows
+END
+beginning_of_line
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/beginning_of_line
+END
+delete_next_word
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/delete_next_word
+END
+forward_word
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/forward_word
+END
+blink
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/blink
+END
+swap_next_window
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/swap_next_window
+END
+send_line
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/send_line
+END
+end_of_line
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/end_of_line
+END
+next_window
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/next_window
+END
+nothing
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/nothing
+END
+erase_to_beg_of_line
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/erase_to_beg_of_line
+END
+backward_word
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/backward_word
+END
+delete_to_previous_space
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/delete_to_previous_space
+END
+reverse
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/reverse
+END
+scroll_start
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/scroll_start
+END
+bind
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/bind
+END
+switch_channels
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/switch_channels
+END
+delete_character
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/delete_character
+END
+forward_character
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/forward_character
+END
+bold
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/bold
+END
+scroll_forward
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/scroll_forward
+END
+scroll_end
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/scroll_end
+END
+forward_history
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/forward_history
+END
+clear_screen
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/clear_screen
+END
+refresh_inputline
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/refresh_inputline
+END
+type_text
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/type_text
+END
+underline
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/underline
+END
+unclear_screen
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/unclear_screen
+END
+delete_previous_word
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/delete_previous_word
+END
+backward_character
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/backward_character
+END
+yank_from_cutbuffer
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/yank_from_cutbuffer
+END
+scroll_backward
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/scroll_backward
+END
+paste_to_input
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/paste_to_input
+END
+refresh_screen
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/refresh_screen
+END
+swap_previous_window
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/swap_previous_window
+END
+backward_history
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/backward_history
+END
+highlight_off
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/highlight_off
+END
+enter_menu
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/enter_menu
+END
+previous_window
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/previous_window
+END
+erase_line
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/erase_line
+END
+command_completion
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/command_completion
+END
+shove_to_history
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/shove_to_history
+END
+parse_command
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/parse_command
+END
+quote_character
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/quote_character
+END
+toggle_insert_mode
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/toggle_insert_mode
+END
+enter_digraph
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/enter_digraph
+END
+backspace
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/backspace
+END
+self_insert
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/self_insert
+END
+transpose_characters
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bitchx/!svn/ver/4/trunk/bitchx-docs/4_Misc/bind/transpose_characters
+END

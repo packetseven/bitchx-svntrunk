@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/164/trunk/dll/encrypt
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bitchx/!svn/ver/164/trunk/dll/encrypt/Makefile.in
+END
+encrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/bitchx/!svn/ver/4/trunk/dll/encrypt/encrypt.c
+END
+encrypt.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/bitchx/!svn/ver/4/trunk/dll/encrypt/encrypt.sh
+END

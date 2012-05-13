@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/101/trunk/dll/aim/toc
+END
+interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bitchx/!svn/ver/4/trunk/dll/aim/toc/interface.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bitchx/!svn/ver/99/trunk/dll/aim/toc/Makefile.in
+END
+server.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bitchx/!svn/ver/4/trunk/dll/aim/toc/server.c
+END
+ll.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/4/trunk/dll/aim/toc/ll.c
+END
+buddy.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bitchx/!svn/ver/4/trunk/dll/aim/toc/buddy.c
+END
+ll.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/4/trunk/dll/aim/toc/ll.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bitchx/!svn/ver/4/trunk/dll/aim/toc/README
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bitchx/!svn/ver/4/trunk/dll/aim/toc/util.c
+END
+BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/4/trunk/dll/aim/toc/BUGS
+END
+PROTOCOL
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bitchx/!svn/ver/4/trunk/dll/aim/toc/PROTOCOL
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/4/trunk/dll/aim/toc/TODO
+END
+toc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/dll/aim/toc/toc.c
+END
+proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bitchx/!svn/ver/4/trunk/dll/aim/toc/proxy.h
+END
+out
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/4/trunk/dll/aim/toc/out
+END
+network.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/bitchx/!svn/ver/4/trunk/dll/aim/toc/network.c
+END
+toc.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bitchx/!svn/ver/40/trunk/dll/aim/toc/toc.h
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bitchx/!svn/ver/4/trunk/dll/aim/toc/misc.c
+END

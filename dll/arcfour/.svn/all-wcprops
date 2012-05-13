@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/164/trunk/dll/arcfour
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bitchx/!svn/ver/164/trunk/dll/arcfour/Makefile.in
+END
+arcfour.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/bitchx/!svn/ver/4/trunk/dll/arcfour/arcfour.c
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/dll/arcfour/md5.c
+END
+arcfour.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/bitchx/!svn/ver/4/trunk/dll/arcfour/arcfour.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/dll/arcfour/md5.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bitchx/!svn/ver/4/trunk/dll/arcfour/README
+END
+asdf
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/4/trunk/dll/arcfour/asdf
+END

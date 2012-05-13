@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/bitchx/!svn/ver/164/trunk/dll/hint
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/bitchx/!svn/ver/164/trunk/dll/hint/Makefile.in
+END
+hint.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/4/trunk/dll/hint/hint.c
+END
+BitchX.hints
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/bitchx/!svn/ver/4/trunk/dll/hint/BitchX.hints
+END
+hint.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/4/trunk/dll/hint/hint.sh
+END

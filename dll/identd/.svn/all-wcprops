@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bitchx/!svn/ver/164/trunk/dll/identd
+END
+identd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bitchx/!svn/ver/4/trunk/dll/identd/identd.sh
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bitchx/!svn/ver/164/trunk/dll/identd/Makefile.in
+END
+identd.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bitchx/!svn/ver/4/trunk/dll/identd/identd.c
+END

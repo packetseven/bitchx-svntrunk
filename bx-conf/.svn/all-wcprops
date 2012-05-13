@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/bitchx/!svn/ver/4/trunk/bx-conf
+END
+save.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/4/trunk/bx-conf/save.c
+END
+load.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/4/trunk/bx-conf/load.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bitchx/!svn/ver/4/trunk/bx-conf/Makefile.in
+END
+func_pr.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/bx-conf/func_pr.h
+END
+test.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/4/trunk/bx-conf/test.h
+END
+ds_cell.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/bx-conf/ds_cell.c
+END
+ds_keys.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/bx-conf/ds_keys.h
+END
+ds_cell.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/bx-conf/ds_cell.h
+END
+file_cpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bitchx/!svn/ver/4/trunk/bx-conf/file_cpy.c
+END

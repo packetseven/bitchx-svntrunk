@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/164/trunk/dll/wavplay
+END
+unotify_ZnO.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bitchx/!svn/ver/4/trunk/dll/wavplay/unotify_ZnO.wav
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bitchx/!svn/ver/164/trunk/dll/wavplay/Makefile.in
+END
+wavplay.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/bitchx/!svn/ver/4/trunk/dll/wavplay/wavplay.c
+END
+kicked.wav
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/bitchx/!svn/ver/4/trunk/dll/wavplay/kicked.wav
+END
+llook_split.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bitchx/!svn/ver/4/trunk/dll/wavplay/llook_split.wav
+END
+invite.wav
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/bitchx/!svn/ver/4/trunk/dll/wavplay/invite.wav
+END
+notify_ZnO.wav
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bitchx/!svn/ver/4/trunk/dll/wavplay/notify_ZnO.wav
+END
+llook_join.wav
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bitchx/!svn/ver/4/trunk/dll/wavplay/llook_join.wav
+END

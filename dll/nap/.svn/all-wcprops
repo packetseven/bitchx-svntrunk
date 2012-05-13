@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/bitchx/!svn/ver/166/trunk/dll/nap
+END
+test
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bitchx/!svn/ver/4/trunk/dll/nap/test
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/bitchx/!svn/ver/166/trunk/dll/nap/Makefile.in
+END
+to-do
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/4/trunk/dll/nap/to-do
+END
+nap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/4/trunk/dll/nap/nap.sh
+END
+nap_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bitchx/!svn/ver/4/trunk/dll/nap/nap_file.c
+END
+nap.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/68/trunk/dll/nap/nap.c
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/4/trunk/dll/nap/test.c
+END
+napother.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bitchx/!svn/ver/4/trunk/dll/nap/napother.c
+END
+napster.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/dll/nap/napster.h
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/4/trunk/dll/nap/md5.c
+END
+Changes
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/4/trunk/dll/nap/Changes
+END
+napsend.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/dll/nap/napsend.c
+END
+README.nap
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bitchx/!svn/ver/4/trunk/dll/nap/README.nap
+END
+napfunc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/dll/nap/napfunc.c
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/4/trunk/dll/nap/md5.h
+END

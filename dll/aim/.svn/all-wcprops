@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/bitchx/!svn/ver/166/trunk/dll/aim
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/bitchx/!svn/ver/166/trunk/dll/aim/Makefile.in
+END
+cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/4/trunk/dll/aim/cmd.c
+END
+toc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/4/trunk/dll/aim/toc.c
+END
+aim.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/26/trunk/dll/aim/aim.c
+END
+bx.patch
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/4/trunk/dll/aim/bx.patch
+END
+aim.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/4/trunk/dll/aim/aim.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/4/trunk/dll/aim/README
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/4/trunk/dll/aim/util.c
+END

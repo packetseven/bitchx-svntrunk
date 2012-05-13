@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/bitchx/!svn/ver/164/trunk/dll/amp
+END
+layer2.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/layer2.c
+END
+audioIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/audioIO.h
+END
+layer3.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/layer3.c
+END
+getbits.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/getbits.c
+END
+audio.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/audio.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/bitchx/!svn/ver/164/trunk/dll/amp/Makefile.in
+END
+layer2.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/layer2.h
+END
+layer3.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/layer3.h
+END
+position.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/position.c
+END
+getbits.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/getbits.h
+END
+audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/audio.h
+END
+audioIO_Linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/audioIO_Linux.c
+END
+proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/proto.h
+END
+getdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/getdata.c
+END
+buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/buffer.c
+END
+position.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/position.h
+END
+transform.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/transform.c
+END
+misc2.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/misc2.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/util.c
+END
+getdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/getdata.h
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/config.h.in
+END
+transform.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/transform.h
+END
+amp.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/amp.h
+END
+misc2.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/misc2.h
+END
+huffman.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/huffman.c
+END
+huffman.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/huffman.h
+END
+audioIO.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/dll/amp/audioIO.c
+END

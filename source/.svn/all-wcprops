@@ -1,0 +1,521 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/bitchx/!svn/ver/181/trunk/source
+END
+if.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bitchx/!svn/ver/32/trunk/source/if.c
+END
+scr-bx.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/119/trunk/source/scr-bx.c
+END
+winbitchx.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bitchx/!svn/ver/4/trunk/source/winbitchx.c
+END
+pmbitchx.rc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bitchx/!svn/ver/4/trunk/source/pmbitchx.rc
+END
+history.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/4/trunk/source/history.c
+END
+commands.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bitchx/!svn/ver/136/trunk/source/commands.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bitchx/!svn/ver/159/trunk/source/Makefile.in
+END
+flood.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/26/trunk/source/flood.c
+END
+cdrom.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/4/trunk/source/cdrom.c
+END
+stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/4/trunk/source/stack.c
+END
+term.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/17/trunk/source/term.c
+END
+functions.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bitchx/!svn/ver/129/trunk/source/functions.c
+END
+whowas.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/77/trunk/source/whowas.c
+END
+keys.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/4/trunk/source/keys.c
+END
+irc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/149/trunk/source/irc.c
+END
+array.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/81/trunk/source/array.c
+END
+user.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/4/trunk/source/user.c
+END
+hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/52/trunk/source/hash.c
+END
+encrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/4/trunk/source/encrypt.c
+END
+pmbitchx.RES
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bitchx/!svn/ver/4/trunk/source/pmbitchx.RES
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/4/trunk/source/debug.c
+END
+network.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bitchx/!svn/ver/181/trunk/source/network.c
+END
+chelp.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/127/trunk/source/chelp.c
+END
+cdcc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/4/trunk/source/cdcc.c
+END
+funny.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/130/trunk/source/funny.c
+END
+opendir.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/4/trunk/source/opendir.c
+END
+bot_link.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bitchx/!svn/ver/62/trunk/source/bot_link.c
+END
+fset.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/144/trunk/source/fset.c
+END
+files.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/4/trunk/source/files.c
+END
+names.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/137/trunk/source/names.c
+END
+digraph.inc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bitchx/!svn/ver/4/trunk/source/digraph.inc
+END
+X.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/bitchx/!svn/ver/4/trunk/source/X.c
+END
+modules.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/87/trunk/source/modules.c
+END
+numbers.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bitchx/!svn/ver/144/trunk/source/numbers.c
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/4/trunk/source/list.c
+END
+readlog.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/4/trunk/source/readlog.c
+END
+reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/80/trunk/source/reg.c
+END
+pmbitchx.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/source/pmbitchx.c
+END
+expr.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/26/trunk/source/expr.c
+END
+ircsig.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/4/trunk/source/ircsig.c
+END
+notice.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/58/trunk/source/notice.c
+END
+newio.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/104/trunk/source/newio.c
+END
+ignore.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/4/trunk/source/ignore.c
+END
+compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/4/trunk/source/compat.c
+END
+exec.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/156/trunk/source/exec.c
+END
+alias.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/26/trunk/source/alias.c
+END
+banlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/79/trunk/source/banlist.c
+END
+cset.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/108/trunk/source/cset.c
+END
+output.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/4/trunk/source/output.c
+END
+expr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/4/trunk/source/expr2.c
+END
+lastlog.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/4/trunk/source/lastlog.c
+END
+vars.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/160/trunk/source/vars.c
+END
+alist.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/107/trunk/source/alist.c
+END
+screen.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/121/trunk/source/screen.c
+END
+tcl_public.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bitchx/!svn/ver/4/trunk/source/tcl_public.c
+END
+status.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/139/trunk/source/status.c
+END
+art.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bitchx/!svn/ver/4/trunk/source/art.c
+END
+cdns.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/4/trunk/source/cdns.c
+END
+gtkbitchx.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bitchx/!svn/ver/4/trunk/source/gtkbitchx.c
+END
+translat.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/source/translat.c
+END
+dcc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/104/trunk/source/dcc.c
+END
+pmbitchx.def
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bitchx/!svn/ver/4/trunk/source/pmbitchx.def
+END
+who.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bitchx/!svn/ver/4/trunk/source/who.c
+END
+words.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/26/trunk/source/words.c
+END
+input.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/160/trunk/source/input.c
+END
+hook.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/36/trunk/source/hook.c
+END
+pmbitchx.ico
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bitchx/!svn/ver/4/trunk/source/pmbitchx.ico
+END
+server.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/150/trunk/source/server.c
+END
+wserv.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/4/trunk/source/wserv.c
+END
+window.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/87/trunk/source/window.c
+END
+notify.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/26/trunk/source/notify.c
+END
+parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/114/trunk/source/parse.c
+END
+userlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bitchx/!svn/ver/137/trunk/source/userlist.c
+END
+hebrew.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/4/trunk/source/hebrew.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/4/trunk/source/timer.c
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bitchx/!svn/ver/4/trunk/source/log.c
+END
+mail.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/4/trunk/source/mail.c
+END
+commands2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bitchx/!svn/ver/163/trunk/source/commands2.c
+END
+glob.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/4/trunk/source/glob.c
+END
+queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bitchx/!svn/ver/4/trunk/source/queue.c
+END
+struct.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/110/trunk/source/struct.c
+END
+help.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/4/trunk/source/help.c
+END
+ctcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/137/trunk/source/ctcp.c
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/149/trunk/source/misc.c
+END
+ircaux.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/109/trunk/source/ircaux.c
+END
+alloca.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitchx/!svn/ver/4/trunk/source/alloca.c
+END

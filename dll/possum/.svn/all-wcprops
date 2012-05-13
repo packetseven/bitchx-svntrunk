@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bitchx/!svn/ver/164/trunk/dll/possum
+END
+possum.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bitchx/!svn/ver/4/trunk/dll/possum/possum.sh
+END
+rcv.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/4/trunk/dll/possum/rcv.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bitchx/!svn/ver/164/trunk/dll/possum/Makefile.in
+END
+head.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/dll/possum/head.c
+END
+def.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bitchx/!svn/ver/4/trunk/dll/possum/def.h
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bitchx/!svn/ver/4/trunk/dll/possum/VERSION
+END
+pathnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/bitchx/!svn/ver/4/trunk/dll/possum/pathnames.h
+END
+head.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/dll/possum/head.h
+END
+possum.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bitchx/!svn/ver/4/trunk/dll/possum/possum.c
+END
+llist.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bitchx/!svn/ver/4/trunk/dll/possum/llist.c
+END
+glob.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/dll/possum/glob.h
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bitchx/!svn/ver/4/trunk/dll/possum/extern.h
+END
+llist.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bitchx/!svn/ver/4/trunk/dll/possum/llist.h
+END

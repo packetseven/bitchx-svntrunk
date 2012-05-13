@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/bitchx/!svn/ver/166/trunk/dll
+END
+dllinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitchx/!svn/ver/4/trunk/dll/dllinit.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/164/trunk/dll/Makefile.in
+END
+Make-windll.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bitchx/!svn/ver/52/trunk/dll/Make-windll.sh
+END

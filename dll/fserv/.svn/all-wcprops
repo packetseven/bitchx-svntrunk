@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bitchx/!svn/ver/164/trunk/dll/fserv
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bitchx/!svn/ver/164/trunk/dll/fserv/Makefile.in
+END
+fserv.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bitchx/!svn/ver/4/trunk/dll/fserv/fserv.c
+END
+fserv.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bitchx/!svn/ver/4/trunk/dll/fserv/fserv.sh
+END

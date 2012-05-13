@@ -1,0 +1,196 @@
+10
+
+dir
+181
+https://bitchx.svn.sourceforge.net/svnroot/bitchx/trunk/dll
+https://bitchx.svn.sourceforge.net/svnroot/bitchx
+
+
+
+2012-05-08T15:20:39.750243Z
+166
+keaston
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13b04d17-f746-0410-82c6-800466cd88b0
+
+nicklist
+dir
+
+dllinit.c
+file
+
+
+
+
+2012-05-13T14:16:22.000000Z
+e42cbb6041a6aff94be999443e537415
+2008-02-25T09:49:14.317563Z
+3
+keaston
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2564
+
+pkga
+dir
+
+Makefile.in
+file
+
+
+
+
+2012-05-13T14:16:22.000000Z
+ce5fe903d2507bbf09d4acf4b9f63aba
+2012-05-08T14:34:25.405873Z
+164
+keaston
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6664
+
+wavplay
+dir
+
+encrypt
+dir
+
+acro
+dir
+
+xmms
+dir
+
+fserv
+dir
+
+abot
+dir
+
+possum
+dir
+
+cavlink
+dir
+
+autocycle
+dir
+
+qbx
+dir
+
+europa
+dir
+
+arcfour
+dir
+
+hint
+dir
+
+qmail
+dir
+
+cdrom
+dir
+
+aim
+dir
+
+identd
+dir
+
+blowfish
+dir
+
+amp
+dir
+
+Make-windll.sh
+file
+
+
+
+
+2012-05-13T14:16:22.000000Z
+61f9ccb7210c976ceb3c1fa8114e0113
+2008-06-14T06:45:05.812423Z
+52
+keaston
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1544
+
+nap
+dir
+
